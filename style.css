@@ -49,3 +49,54 @@
     .contact a:hover {
       text-decoration: underline;
     }
+    body {
+      font-family: Verdana, sans-serif;
+      margin: 0;
+      background:#eef1f4;
+    }
+    .wrapper2 {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #ffffff;
+      padding: 30px;
+      box-shadow: 0 0 12px rgba(0,0,0,0.1);
+    }
+    .header2 {
+      display: flex;
+      gap: 20px;
+      align-items: center;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 20px;
+    }
+    .header2 img {
+      width: 140px;
+      height: 140px;
+      object-fit: cover;
+      border-radius: 50%;
+    }
+    h1 {
+         margin: 0 0 10px;
+    }
+    .role2 {
+      color: #444;
+      font-size: 1.1rem;
+    }
+    .bloc2 {
+      margin-top: 25px;
+    }
+    .bloc2 h2 {
+      margin-bottom: 10px;
+      font-size: 1.3rem;
+      border-left: 4px solid #c0392b;
+      padding-left: 8px;
+    }
+    ul {
+      padding-left: 18px;
+    }
+    .contact2 a {
+      color: #c0392b;
+      text-decoration: none;
+    }
+    .contact2 a:hover {
+      text-decoration: underline;
+    }
