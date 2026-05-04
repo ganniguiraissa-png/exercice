@@ -100,3 +100,54 @@
     .contact2 a:hover {
       text-decoration: underline;
     }
+     body {
+      font-family: "Segoe UI", sans-serif;
+      margin: 0;
+      background:#f3f3fc;
+    }
+    .zone3 {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #ffffff;
+      padding: 30px;
+      box-shadow: 0 0 14px rgba(0,0,0,0.12);
+    }
+    .header3 {
+      display: flex;
+      gap: 20px;
+      align-items: center;
+      border-bottom: 1px solid #bbb;
+      padding-bottom: 20px;
+    }
+    .header3 img {
+      width: 140px;
+      height: 140px;
+      object-fit: cover;
+      border-radius: 50%;
+    }
+    h1 {
+      margin: 0 0 10px;
+    }
+    .role3 {
+      color: #333;
+      font-size: 1.1rem;
+    }
+    .bloc3 {
+      margin-top: 25px;
+    }
+    .bloc3 h2 {
+      margin-bottom: 10px;
+      font-size: 1.3rem;
+      border-left: 4px solid #8e44ad;
+      padding-left: 8px;
+    }
+    ul {
+      padding-left: 18px;
+    }
+    .contact3 a {
+      color: #8e44ad;
+      text-decoration: none;
+    }
+    .contact3 a:hover {
+      text-decoration: underline;
+    }
